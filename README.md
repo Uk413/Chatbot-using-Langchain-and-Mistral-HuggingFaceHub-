@@ -2,8 +2,8 @@
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Uk413/Chatbot-using-Langchain-and-Mistral-HuggingFaceHub-
+   cd Chatbot-using-Langchain-and-Mistral-HuggingFaceHub-
    ```
 
 2. **Create a Virtual Environment (Optional)**  
