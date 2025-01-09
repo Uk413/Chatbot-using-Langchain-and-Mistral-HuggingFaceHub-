@@ -33,16 +33,11 @@
      ```
    - Open `.env` and replace placeholder values with your API key and other details:
      ```plaintext
-     API_KEY=your-actual-api-key
+     HUGGINGFACEHUB_API_TOKEN=your-actual-api-key
      ```
 
 5. **Run the Application**  
    ```bash
-   streamlit run app.py
+   streamlit run LangchainHuggingFaceChatbot.py
    ```
 
-6. **Access the App**  
-   Open the app in your browser at:  
-   ```
-   http://localhost:8501
-   ```
